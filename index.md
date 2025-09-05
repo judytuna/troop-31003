@@ -3,7 +3,7 @@ layout: default
 title: "Troop 31003 - Alameda Girl Scouts"
 ---
 
-<div style="text-align: center; background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); padding: 3rem; border-radius: 20px; margin: 2rem 0;" markdown="1">
+<div style="text-align: center; background: linear-gradient(135deg, #00a651 0%, #66d9a2 50%, #a8e6cf 100%); padding: 3rem; border-radius: 20px; margin: 2rem 0;" markdown="1">
 
 # 🌸 Hello World! 🌸
 
@@ -40,7 +40,7 @@ title: "Troop 31003 - Alameda Girl Scouts"
 
 ---
 
-<div style="font-size: 1.2rem; font-style: italic; color: #d63384;">
+<div style="font-size: 1.2rem; font-style: italic; color: #00623a;">
 "Like the California poppies that bloom along our island shores,
 we grow strong in the sunshine and dance in the ocean breeze! 🌊🌼"
 </div>
@@ -59,7 +59,7 @@ we grow strong in the sunshine and dance in the ocean breeze! 🌊🌼"
 <style>
 body {
   font-family: 'Georgia', serif;
-  background: linear-gradient(45deg, #ffeaa7, #fab1a0, #fd79a8);
+  background: linear-gradient(45deg, #c8e6c9, #81c784, #66bb6a);
   min-height: 100vh;
 }
 </style>
