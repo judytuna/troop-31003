@@ -1,0 +1,25 @@
+title: "Girl Scout Troop 31003"
+description: "Alameda Girl Scouts - Where bay breezes meet bold dreams!"
+baseurl: "troop-31003" # the subpath of your site, e.g. /blog
+url: "https://judytuna.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Site settings
+# email: troop31003@example.com
+github_username: judytuna
+
+# Exclude from processing
+exclude:
+  - .claude/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
