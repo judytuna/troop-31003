@@ -21,9 +21,9 @@ title: "Troop 31003 - Alameda Girl Scouts"
 
 ## 💪 We Are Strong! We Are Brave! We Are Girl Scouts! 💪
 
-🌸 **Growing** like wildflowers along the Alameda shore
-🦋 **Learning** with every tide that touches our bay
-✨ **Leading** with courage from the East Bay to beyond
+🌸 **Growing** like wildflowers along the Alameda shore<br/>
+🦋 **Learning** with every tide that touches our bay<br/>
+✨ **Leading** with courage from the East Bay to beyond<br/>
 🌟 **Changing** the world, one badge at a time
 
 </div>
