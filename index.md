@@ -3,11 +3,11 @@ layout: default
 title: "Troop 31003 - Alameda Girl Scouts"
 ---
 
-<div style="text-align: center; background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); padding: 3rem; border-radius: 20px; margin: 2rem 0;">
-  
+<div style="text-align: center; background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); padding: 3rem; border-radius: 20px; margin: 2rem 0;" markdown="1">
+
 # 🌸 Hello World! 🌸
 
-## Welcome to Girl Scout Troop 31003! 
+## Welcome to Girl Scout Troop 31003!
 
 ### 🏝️ Alameda, California 🌊
 
@@ -17,14 +17,14 @@ title: "Troop 31003 - Alameda Girl Scouts"
 
 ---
 
-<div style="background: rgba(255,255,255,0.3); padding: 2rem; border-radius: 15px; margin: 2rem 0;">
+<div style="background: rgba(255,255,255,0.3); padding: 2rem; border-radius: 15px; margin: 2rem 0;" markdown="1">
 
 ## 💪 We Are Strong! We Are Brave! We Are Girl Scouts! 💪
 
-🌸 **Growing** like wildflowers along the Alameda shore  
-🦋 **Learning** with every tide that touches our bay  
-✨ **Leading** with courage from the East Bay to beyond  
-🌟 **Changing** the world, one badge at a time  
+🌸 **Growing** like wildflowers along the Alameda shore
+🦋 **Learning** with every tide that touches our bay
+✨ **Leading** with courage from the East Bay to beyond
+🌟 **Changing** the world, one badge at a time
 
 </div>
 
@@ -41,14 +41,14 @@ title: "Troop 31003 - Alameda Girl Scouts"
 ---
 
 <div style="font-size: 1.2rem; font-style: italic; color: #d63384;">
-"Like the California poppies that bloom along our island shores,  
+"Like the California poppies that bloom along our island shores,
 we grow strong in the sunshine and dance in the ocean breeze! 🌊🌼"
 </div>
 
 ---
 
 <div style="margin: 2rem 0;">
-🏖️ From Crown Memorial Beach to Central Bay 🏖️  
+🏖️ From Crown Memorial Beach to Central Bay 🏖️  <br/>
 🌅 Alameda Girl Scouts shine bright every day! 🌅
 </div>
 
